@@ -1,0 +1,67 @@
+
+Company,Position,Location,Applied,Status,Notes
+Google,Data Analyst,New York NY,2025/12/01,Applied,Applied via website
+Amazon,Python Developer,Seattle WA,2025/12/02,Interview,HR call done
+Microsoft,Software Engineer,Redmond WA,2025/12/03,Rejected,Technical round
+Infosys,Data Engineer,Remote,2025/12/04,Applied,Employee referral
+TCS,Backend Developer,Dallas TX,2025/12/05,Offer,Offer received
+Cognizant,ETL Developer,Chicago IL,2025/12/06,Applied,Waiting response
+Accenture,Cloud Engineer,Remote,2025/12/07,Interview,Tech round scheduled
+IBM,Data Scientist,Austin TX,2025/12/08,Applied,LinkedIn application
+Oracle,Java Developer,San Jose CA,2025/12/09,Rejected,Coding test failed
+Meta,ML Engineer,Menlo Park CA,2025/12/10,Applied,Online portal
+Netflix,Backend Engineer,Los Gatos CA,2025/12/11,Interview,System design round
+Apple,iOS Developer,Cupertino CA,2025/12/12,Applied,Referral used
+Salesforce,Platform Engineer,San Francisco CA,2025/12/13,Offer,Good package
+Adobe,Data Analyst,San Jose CA,2025/12/14,Applied,Resume shortlisted
+Uber,Software Engineer,New York NY,2025/12/15,Interview,Manager round
+Lyft,Python Developer,Remote,2025/12/16,Rejected,Low feedback
+Tesla,Data Engineer,Austin TX,2025/12/17,Applied,Waiting HR
+Intel,Embedded Engineer,Portland OR,2025/12/18,Interview,Onsite scheduled
+Nvidia,AI Engineer,Santa Clara CA,2025/12/19,Applied,AI role
+Qualcomm,System Engineer,San Diego CA,2025/12/20,Rejected,Resume rejected
+Cisco,Network Engineer,San Jose CA,2025/12/21,Applied,Applied online
+Dell,Backend Developer,Round Rock TX,2025/12/22,Interview,Tech round
+HP,Software Tester,Boise ID,2025/12/23,Applied,Manual testing
+PayPal,Java Developer,San Jose CA,2025/12/24,Offer,Offer accepted
+Stripe,Backend Engineer,Remote,2025/12/25,Applied,Startup role
+Square,Python Developer,Remote,2025/12/26,Interview,Live coding
+Zoom,Full Stack Dev,San Jose CA,2025/12/27,Applied,Workday portal
+LinkedIn,Data Analyst,Sunnyvale CA,2025/12/28,Rejected,Analytics test
+Twitter,Backend Engineer,Remote,2025/12/29,Applied,Resume sent
+Snapchat,Android Dev,Los Angeles CA,2025/12/30,Interview,Mobile round
+Spotify,Data Scientist,New York NY,2025/12/31,Applied,Music analytics
+Airbnb,Platform Engineer,Remote,2026/01/01,Offer,Remote offer
+Booking.com,Python Dev,Remote,2026/01/02,Applied,EU company
+Expedia,Software Engineer,Austin TX,2026/01/03,Interview,Tech interview
+Walmart,Data Engineer,Bentonville AR,2026/01/04,Applied,Retail data
+Target,BI Analyst,Minneapolis MN,2026/01/05,Rejected,No response
+Costco,Data Analyst,Seattle WA,2026/01/06,Applied,Referral pending
+HomeDepot,Backend Dev,Atlanta GA,2026/01/07,Interview,Java role
+Lowes,Software Engineer,Charlotte NC,2026/01/08,Applied,Cloud focus
+Flipkart,Data Engineer,Bangalore,2026/01/09,Applied,India role
+Amazon India,ML Engineer,Bangalore,2026/01/10,Interview,ML system
+Infosys US,Python Dev,Remote,2026/01/11,Offer,Client project
+TCS US,Cloud Engineer,Remote,2026/01/12,Applied,AWS role
+Wipro,Data Analyst,New Jersey,2026/01/13,Rejected,Client budget
+HCL,Backend Engineer,Texas,2026/01/14,Applied,Spring boot
+Capgemini,Java Dev,Remote,2026/01/15,Interview,Tech + HR
+DXC,Data Engineer,Virginia,2026/01/16,Applied,ETL pipelines
+LTI,Python Dev,Remote,2026/01/17,Offer,Good salary
+Mindtree,Cloud Dev,Remote,2026/01/18,Applied,Azure focus
+Citi,Data Analyst,Tampa FL,2026/01/19,Interview,Banking domain
+JPMorgan,Software Eng,New York NY,2026/01/20,Rejected,HackerRank
+Goldman Sachs,Quant Dev,New York NY,2026/01/21,Applied,Finance role
+Morgan Stanley,Data Engineer,New Jersey,2026/01/22,Interview,SQL heavy
+American Express,BI Analyst,Phoenix AZ,2026/01/23,Applied,Reporting role
+Visa,Backend Dev,Austin TX,2026/01/24,Offer,Payment systems
+Mastercard,Java Engineer,Remote,2026/01/25,Applied,Card tech
+Paytm,Data Analyst,Bangalore,2026/01/26,Interview,Analytics round
+PhonePe,Backend Dev,Bangalore,2026/01/27,Applied,UPI systems
+Razorpay,Python Dev,Remote,2026/01/28,Rejected,Design round
+Swiggy,Data Engineer,Bangalore,2026/01/29,Applied,Food tech
+Zomato,Backend Engineer,Gurgaon,2026/01/30,Interview,Microservices
+Byjus,Data Analyst,Bangalore,2026/01/31,Applied,Edtech
+Freshworks,Software Eng,Chennai,2026/02/01,Offer,Product team
+Zoho,Backend Dev,Chennai,2026/02/02,Applied,Low salary
+

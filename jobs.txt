@@ -1,0 +1,6 @@
+{'company': 'aaa', 'role': 'bb', 'vendor': 'cc', 'interviews': 0, 'rounds': [], 'status': 'Applied'}
+{'company': 'ama', 'role': 'ba', 'vendor': 'cad', 'interviews': 0, 'rounds': [], 'status': 'Applied'}
+{'company': 'amazond', 'role': 'de', 'emails': '', 'interviews': 0, 'rounds': [], 'status': 'Applied'}
+{'company': 'abc', 'role': 'xyz', 'emails': '', 'interviews': 0, 'rounds': [], 'status': 'Applied'}
+{'company': '& C:/Users/pavan/AppData/Local/Programs/Python/Python313/python.exe c:/Users/pavan/OneDrive/Desktop/job_tracker/app.py', 'role': 'dd', 'emails': '', 'interviews': 0, 'rounds': [], 'status': 'Applied'}
+{'company': 'nvhv', 'role': 'nbvhv', 'emails': '', 'interviews': 0, 'rounds': [], 'status': 'Applied'}

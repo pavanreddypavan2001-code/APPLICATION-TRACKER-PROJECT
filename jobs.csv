@@ -1,0 +1,35 @@
+Company,Position,Location,Applied,Status,Notes,Applied Date,Recruiter Emails,Interviews
+Google,Data Analyst,New York NY,2025/12/01,Applied,Applied via company website,,,
+Amazon,Python Developer,Seattle WA,2025/12/05,Interview,HR round completed,,,
+Microsoft,Software Engineer,Redmond WA,2025/12/07,Rejected,Technical round failed,,,
+Infosys,Data Engineer,Remote,2025/12/10,Applied,Referred by employee,,,
+TCS,Backend Developer,Dallas TX,2025/12/12,offer,rejected,,,
+Cognizant,ETL Developer,Chicago IL,2025/12/15,Applied,Waiting for response,,,
+Accenture,Cloud Engineer,Remote,2025/12/15,Interview,Technical round scheduled,,,
+,,,,Applied,,2026-01-27,0.0,0.0
+,,,,,,,,
+,,,,Applied,,2026-01-27,0.0,0.0
+,,,,Applied,,2026-01-27,0.0,0.0
+,,,,Applied,,2026-01-27,0.0,0.0
+cog,DE,ct,,Applied,,2026-01-27,1.0,0.0
+ITY,DE,ct,,Applied,,2026-01-27,1.0,0.0
+NYC,DE,ct,,Applied,,2026-01-27,1.0,0.0
+satffing,DE,Texas,,Applied,,2026-01-27,1.0,0.0
+satffing,DE,Texas,,Interview,,2026-01-27,1.0,0.0
+The hartford,BA,Texas,,Interview,,2026-01-27,1.0,0.0
+The hartford,BA,Texas,,Interview,,2026-01-27,2.0,0.0
+BH,DE,Texas,,Interview,,2026-01-27,1.0,0.0
+VLG,DE,Texas,,Rejected,Coding round,2026-01-27,1.0,0.0
+spotify,data engineer,NY,,Applied,,2026-01-27,0.0,0.0
+snapchat,data engineer,LA,,Interview,,2026-01-27,0.0,0.0
+twitter,data engineer,NY,,Interview,,2026-01-27,0.0,1.0
+PAYPAP,data engineer,MA,,Interview,,2026-01-27,0.0,1.0
+QUALCOMM,data engineer,MA,,Interview,,2026-01-27,0.0,0.0
+DELL,data engineer,MA,,Rejected,,2026-01-27,0.0,1.0
+HP,SERIOR data engineer,MA,,Rejected,,2026-01-27,3.0,3.0
+INTEL,SERIOR data engineer,MA,,Interview,,2026-01-27,1.0,2.0
+TESLA,SERIOR data engineer,CA,,Interview,,2026-01-27,3.0,3.0
+apple,Data engineer ,Texas,,Applied,one more round left,2026-01-28,3.0,4.0
+cisco,Data engineer,dallas,,Applied,coding round cleared final round left,2026-01-28,4.0,2.0
+cisco,Data engineer,dallas,,Interview,coding round cleared final round left,2026-01-28,4.0,2.0
+,,,,Rejected,coding round rejected,2026-01-28,0.0,2.0
